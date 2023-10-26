@@ -1,3 +1,4 @@
+adding tags to fruits
 banana
 apples
 berries
